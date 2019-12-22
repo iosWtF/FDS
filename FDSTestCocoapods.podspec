@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "TestCocoapods"
-  s.version      = "2.0.0"
+  s.name         = "FDSTestCocoapods"
+  s.version      = "2.0.1"
   s.summary      = "1231312312"
 
   # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ ceshiceshicehishishishishishishishishishis
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/iosWtF/FDS.git", :tag => "2.0.0" }
+  s.source       = { :git => "https://github.com/iosWtF/FDS.git", :tag => "2.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
